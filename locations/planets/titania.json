@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Titania",
+	"access_rules": [
+	  "titania",
+	  "@Path/Titania"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 795,
+		"y": 392
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      },
+      {
+        "name": "Second Falling Tower From Start: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Through Two Leaning Towers: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "After Three Bone Structures: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Above Skull: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "On Bridge: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Right Of Bridge: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Upper Left Path: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Suspended Above Two Bridges: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "Checkpoint",
+		"chest_unopened_img": "images/checkpoints.png",
+		"visibility_rules": [
+			"shuffle_checkpoints"
+		]
+      },
+      {
+        "name": "Falling Towers Section: First Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Falling Towers Section: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Falling Towers Section: Second Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Falling Towers Section: Third Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Behind Arches On The Right: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Upper Right Hill: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "First Falling Tower Before Boss: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "First Falling Tower Before Boss: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Second Falling Tower Before Boss: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "Second Falling Tower Before Boss: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      }
+    ]
+  }
+]

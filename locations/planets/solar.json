@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Solar",
+	"access_rules": [
+	  "solar",
+	  "@Path/Solar"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 501,
+		"y": 296
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      },
+      {
+        "name": "Checkpoint",
+		"chest_unopened_img": "images/checkpoints.png",
+		"visibility_rules": [
+			"shuffle_checkpoints"
+		]
+      }
+    ]
+  }
+]

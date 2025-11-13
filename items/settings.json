@@ -1,0 +1,269 @@
+[
+  {
+    "name": "Deathlink",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/deathlink.png",
+    "codes": "deathlink"
+  },
+  {
+    "name": "Ringlink",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/goldring.png",
+    "codes": "ringlink"
+  },
+  {
+    "name": "Shuffle Starting Level",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/startinglevel.png",
+    "codes": "shuffle_starting_level"
+  },
+  {
+    "name": "Shuffle Checkpoints",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/checkpoints.png",
+    "codes": "shuffle_checkpoints"
+  },
+  {
+    "name": "Accomplished Sends Complete",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/complete.png",
+    "codes": "accomplished_sends_complete"
+  },
+  {
+    "name": "Shuffle Medals",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/medal.png",
+    "codes": "shuffle_medals"
+  },
+  {
+    "name": "Level Access",
+    "type": "progressive",
+    "codes": "level_access",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+		"name": "Level Access",
+        "inherit_codes": false,
+        "img": "images/corneria.png",
+		"codes": "access-level"
+      },
+      {
+		"name": "Path Access",
+        "inherit_codes": false,
+        "img": "images/path.png",
+		"codes": "access-path"
+      }
+    ]
+  },
+  {
+    "name": "Victory Condition",
+    "type": "progressive",
+    "codes": "victory_condition",
+    "loop": false,
+    "allow_disabled": false,
+    "stages": [
+      {
+		"name": "Victory: Either Boss",
+        "inherit_codes": false,
+        "img": "images/either.png",
+		"codes": "vic-either"
+      },
+      {
+		"name": "Victory: Both Bosses",
+        "inherit_codes": false,
+        "img": "images/both.png",
+		"codes": "vic-both"
+      },
+      {
+		"name": "Victory: Andross 2",
+        "inherit_codes": false,
+        "img": "images/andross.png",
+		"codes": "vic-andross"
+      }
+    ]
+  },
+  {
+    "name": "Required Medals",
+    "type": "consumable",
+    "img": "images/medal.png",
+    "codes": "required_medals",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 15,
+    "increment": 1,
+    "overlay_font_size": "16",
+    "allow_disabled": false
+  },
+  {
+    "name": "Medal Corneria",
+    "type": "consumable",
+    "img": "images/corneria.png",
+    "codes": "medal_corneria",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 150,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Meteo",
+    "type": "consumable",
+    "img": "images/meteo.png",
+    "codes": "medal_meteo",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 200,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Sector Y",
+    "type": "consumable",
+    "img": "images/sectory.png",
+    "codes": "medal_sector_y",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 150,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Katina",
+    "type": "consumable",
+    "img": "images/katina.png",
+    "codes": "medal_katina",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 150,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Fortuna",
+    "type": "consumable",
+    "img": "images/fortuna.png",
+    "codes": "medal_fortuna",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 50,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Aquas",
+    "type": "consumable",
+    "img": "images/aquas.png",
+    "codes": "medal_aquas",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 130,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Solar",
+    "type": "consumable",
+    "img": "images/solar.png",
+    "codes": "medal_solar",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 100,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Sector X",
+    "type": "consumable",
+    "img": "images/sectorx.png",
+    "codes": "medal_sector_x",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 150,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Zoness",
+    "type": "consumable",
+    "img": "images/zoness.png",
+    "codes": "medal_zoness",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 250,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Titania",
+    "type": "consumable",
+    "img": "images/titania.png",
+    "codes": "medal_titania",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 150,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Sector Z",
+    "type": "consumable",
+    "img": "images/sectorz.png",
+    "codes": "medal_sector_z",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 70,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Macbeth",
+    "type": "consumable",
+    "img": "images/macbeth.png",
+    "codes": "medal_macbeth",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 150,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Area 6",
+    "type": "consumable",
+    "img": "images/area6.png",
+    "codes": "medal_area_6",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 300,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Bolse",
+    "type": "consumable",
+    "img": "images/bolse.png",
+    "codes": "medal_bolse",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 150,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+  {
+    "name": "Medal Venom",
+    "type": "consumable",
+    "img": "images/venom.png",
+    "codes": "medal_venom",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 200,
+    "increment": 1,
+    "overlay_font_size": "16"
+  },
+]

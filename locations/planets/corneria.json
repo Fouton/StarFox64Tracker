@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Corneria",
+	"access_rules": [
+	  "corneria",
+	  "access-path"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 89,
+		"y": 540
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete"
+      },
+      {
+        "name": "Mission Accomplished"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      },
+      {
+        "name": "Under Arch: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Behind Doors: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Center of Corneria City: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "Near First Ground Robot: Laser Upgrade",
+		"chest_unopened_img": "images/laser.png"
+      },
+      {
+        "name": "Under Highway Arch: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Behind Second Ground Robot: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Behind Doors Near Checkpoint: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Checkpoint",
+		"chest_unopened_img": "images/checkpoints.png",
+		"visibility_rules": [
+			"shuffle_checkpoints"
+		]
+      },
+      {
+        "name": "After Falco's G-Diffuser Issue: Laser Upgrade",
+		"chest_unopened_img": "images/laser.png"
+      },
+      {
+        "name": "After Falco's G-Diffuser Issue: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Water Section Last Arch: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Left of Waterfall: Laser Upgrade",
+		"chest_unopened_img": "images/laser.png"
+      },
+      {
+        "name": "Before Mission Complete Boss, Lower: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Before Mission Complete Boss, Upper: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      }
+    ]
+  }
+]

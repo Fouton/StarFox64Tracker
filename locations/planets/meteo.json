@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Meteo",
+	"access_rules": [
+	  "meteo",
+	  "@Path/Meteo"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 215,
+		"y": 488
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete",
+		"chest_unopened_img": "images/.png"
+      },
+      {
+        "name": "Warp",
+		"chest_unopened_img": "images/warp.png"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      },
+      {
+        "name": "After Starting Asteroids: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "End Of First Tunnel, Top: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "End Of First Tunnel, Middle: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "End Of First Tunnel, Bottom: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Between Two Big Asteroids: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Checkpoint",
+		"chest_unopened_img": "images/checkpoints.png",
+		"visibility_rules": [
+			"shuffle_checkpoints"
+		]
+      },
+      {
+        "name": "Near Warp Rings: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Just Before Boss: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      }
+    ]
+  }
+]

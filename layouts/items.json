@@ -1,0 +1,273 @@
+{
+  "item_grid": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "1,1",
+        "item_width": 46,
+        "item_height": 46,
+        "rows": [
+          [ "medal" ]
+        ]
+      }
+    ]
+  },
+  "planets_grid": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "3,1",
+        "item_width": 46,
+        "item_height": 46,
+        "rows": [
+          [ "corneria-checkpoint", "meteo-checkpoint", "sectory-checkpoint", "katina-checkpoint", "fortuna-checkpoint" ],
+          [ "aquas-checkpoint", "zoness-checkpoint", "solar-checkpoint", "sectorx-checkpoint", "sectorz-checkpoint" ],
+          [ "macbeth-checkpoint", "titania-checkpoint", "area6-checkpoint", "bolse-checkpoint", "venom-checkpoint" ]
+        ]
+      }
+    ]
+  },
+  "paths_grid": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+	  {
+		"type": "canvas",
+		"width": 417,
+		"height": 155,
+		"margin": "0",
+		"content": [
+		  {
+			"type": "item",
+			"item": "background",
+			"margin": "0",
+			"canvas_depth": 0,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "corneria-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "corneria-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "meteo-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "meteo-gp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "sectory-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "sectory-yp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "aquas-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "katina-yp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "katina-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "fortuna-yp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "fortuna-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "zoness-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "zoness-yp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "solar-yp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "sectorx-gp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "sectorx-yp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "sectorx-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "sectorz-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "sectorz-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "macbeth-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "macbeth-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "titania-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "area6-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "bolse-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		]
+	  }
+    ]
+  },
+  "settings_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "2,2",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "5,2",
+        "item_size": 54,
+        "h_alignment": "left",
+        "rows": [
+          [ "level_access", "accomplished_sends_complete", "", "deathlink", "ringlink" ],
+		  ["shuffle_checkpoints", "shuffle_medals", "", "victory_condition", "required_medals"],
+		  ["medal_corneria", "medal_meteo", "medal_sector_y", "medal_katina", "medal_fortuna"],
+		  ["medal_aquas", "medal_solar", "medal_sector_x", "medal_zoness", "medal_titania"],
+		  ["medal_sector_z", "medal_macbeth", "medal_area_6", "medal_bolse", "medal_venom"]
+        ]
+      }
+    ]
+  }
+}

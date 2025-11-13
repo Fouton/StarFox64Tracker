@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Bolse",
+	"access_rules": [
+	  "bolse",
+	  "@Path/Bolse"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 842,
+		"y": 234
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      }
+    ]
+  }
+]

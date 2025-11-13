@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Area 6",
+	"access_rules": [
+	  "area6",
+	  "@Path/Area6"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 742,
+		"y": 87
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      },
+      {
+        "name": "Below Early Defense Station: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Above Early Defense Station: Laser Upgrade",
+		"chest_unopened_img": "images/laser.png"
+      },
+      {
+        "name": "Andross' Taunt: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Checkpoint",
+		"chest_unopened_img": "images/checkpoints.png",
+		"visibility_rules": [
+			"shuffle_checkpoints"
+		]
+      },
+      {
+        "name": "Near Defense Station After Checkpoint: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      }
+    ]
+  }
+]

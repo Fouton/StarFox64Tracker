@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Path",
+	"access_rules": [
+	  "access-path"
+	],
+    "children": [
+      {
+        "name": "Meteo",
+        "access_rules": [
+          "corneria-bp"
+        ]
+      },
+      {
+        "name": "SectorY",
+        "access_rules": [
+          "corneria-rp"
+        ]
+      },
+      {
+        "name": "Katina",
+        "access_rules": [
+          "@Path/Meteo, meteo-gp",
+		  "@Path/SectorY, sectory-yp"
+        ]
+      },
+      {
+        "name": "Fortuna",
+        "access_rules": [
+          "@Path/Meteo, meteo-bp"
+        ]
+      },
+      {
+        "name": "Aquas",
+        "access_rules": [
+          "@Path/SectorY, sectory-rp"
+        ]
+      },
+      {
+        "name": "Zoness",
+        "access_rules": [
+          "@Path/Aquas, aquas-rp"
+        ]
+      },
+      {
+        "name": "Solar",
+        "access_rules": [
+          "@Path/Katina, katina-yp",
+          "@Path/Fortuna, fortuna-yp"
+        ]
+      },
+      {
+        "name": "SectorX",
+        "access_rules": [
+          "@Path/Katina, katina-bp",
+          "@Path/Fortuna, fortuna-bp"
+        ]
+      },
+      {
+        "name": "SectorZ",
+        "access_rules": [
+          "@Path/Zoness, zoness-rp",
+          "@Path/SectorX, sectorx-gp"
+        ]
+      },
+      {
+        "name": "Macbeth",
+        "access_rules": [
+          "@Path/Zoness, zoness-yp",
+          "@Path/Solar, solar-yp",
+          "@Path/SectorX, sectorx-yp"
+        ]
+      },
+      {
+        "name": "Titania",
+        "access_rules": [
+          "@Path/SectorX, sectorx-bp"
+        ]
+      },
+      {
+        "name": "Area6",
+        "access_rules": [
+          "@Path/SectorZ, sectorz-rp",
+          "@Path/Macbeth, macbeth-rp"
+        ]
+      },
+      {
+        "name": "Bolse",
+        "access_rules": [
+          "@Path/SectorZ, sectorz-bp",
+          "@Path/Macbeth, macbeth-bp",
+          "@Path/Titania, titania-bp"
+        ]
+      },
+      {
+        "name": "Venom",
+        "access_rules": [
+          "@Path/Area6, area6-rp",
+          "@Path/Bolse, bolse-bp"
+        ]
+      }
+    ]
+  }
+]

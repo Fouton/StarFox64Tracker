@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Macbeth",
+	"access_rules": [
+	  "macbeth",
+	  "@Path/Macbeth"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 677,
+		"y": 214
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete"
+      },
+      {
+        "name": "Mission Accomplished"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      },
+      {
+        "name": "Before Hill With Rolling Rocks: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Above Rolling Rocks: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "On Tracks Before Bridge: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "On Tracks After Bridge: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Checkpoint",
+		"chest_unopened_img": "images/checkpoints.png",
+		"visibility_rules": [
+			"shuffle_checkpoints"
+		]
+      },
+      {
+        "name": "After First Building: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "Before Buildings Three And Four: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "After Buildings Three And Four, Right: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "Before Building Five: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "After Building Five: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Under Bridge After Checkpoint: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "First Building After Switcher: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Second Building After Switcher: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "After Marker 100: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "Before Marker 300: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      }
+    ]
+  }
+]

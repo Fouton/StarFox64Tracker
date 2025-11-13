@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Aquas",
+	"access_rules": [
+	  "aquas",
+	  "@Path/Aquas"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 258,
+		"y": 162
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete",
+		"chest_unopened_img": "images/.png",
+		"chest_opened_img": "images/.png"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      },
+      {
+        "name": "Checkpoint",
+		"chest_unopened_img": "images/checkpoints.png",
+		"visibility_rules": [
+			"shuffle_checkpoints"
+		]
+      }
+    ]
+  }
+]

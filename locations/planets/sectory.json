@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Sector Y",
+	"access_rules": [
+	  "sectory",
+	  "@Path/SectorY"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 140,
+		"y": 286
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete"
+      },
+      {
+        "name": "Mission Accomplished"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      },
+      {
+        "name": "Above Friendly Ship Near Start: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Before Checkpoint: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Checkpoint",
+		"chest_unopened_img": "images/checkpoints.png",
+		"visibility_rules": [
+			"shuffle_checkpoints"
+		]
+      },
+      {
+        "name": "Breaking Through The Enemy Fleet: Beginning: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Breaking Through The Enemy Fleet: Middle: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Breaking Through The Enemy Fleet: End: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Sector X",
+	"access_rules": [
+	  "sectorx",
+	  "@Path/SectorX"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 613,
+		"y": 502
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete"
+      },
+      {
+        "name": "Mission Accomplished"
+      },
+      {
+        "name": "Warp",
+		"chest_unopened_img": "images/warp.png"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      },
+      {
+        "name": "In Debris Field, Left: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Checkpoint",
+		"chest_unopened_img": "images/checkpoints.png",
+		"visibility_rules": [
+			"shuffle_checkpoints"
+		]
+      },
+      {
+        "name": "Behind Enemy After Peppy Gets Chased, Right: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Left Path - Just After Fork, Through Bottom Slot: Laser Upgrade",
+		"chest_unopened_img": "images/laser.png"
+      },
+      {
+        "name": "Left Path - Closing Door Section: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Left Path - After Closing Door Section: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Left Path - Behind First Warp Gate: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Left Path - After First Warp Gate, Up High: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Left Path - Before Final Warp Gate: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      }
+    ]
+  }
+]

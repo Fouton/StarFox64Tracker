@@ -1,0 +1,401 @@
+﻿[
+  {
+    "name": "Aquas",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/aquas.png",
+    "codes": "aquas"
+  },
+  {
+    "name": "Area 6",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/area6.png",
+    "codes": "area6"
+  },
+  {
+    "name": "Bolse",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bolse.png",
+    "codes": "bolse"
+  },
+  {
+    "name": "Corneria",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/corneria.png",
+    "codes": "corneria"
+  },
+  {
+    "name": "Fortuna",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/fortuna.png",
+    "codes": "fortuna"
+  },
+  {
+    "name": "Katina",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/katina.png",
+    "codes": "katina"
+  },
+  {
+    "name": "Macbeth",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/macbeth.png",
+    "codes": "macbeth"
+  },
+  {
+    "name": "Meteo",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/meteo.png",
+    "codes": "meteo"
+  },
+  {
+    "name": "Sector X",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/sectorx.png",
+    "codes": "sectorx"
+  },
+  {
+    "name": "Sector Y",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/sectory.png",
+    "codes": "sectory"
+  },
+  {
+    "name": "Sector Z",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/sectorz.png",
+    "codes": "sectorz"
+  },
+  {
+    "name": "Solar",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/solar.png",
+    "codes": "solar"
+  },
+  {
+    "name": "Titania",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/titania.png",
+    "codes": "titania"
+  },
+  {
+    "name": "Venom",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/venom.png",
+    "codes": "venom"
+  },
+  {
+    "name": "Zoness",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/zoness.png",
+    "codes": "zoness"
+  },
+  
+  {
+    "name": "Aquas Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "aquas",
+    "img": "images/checkpoint.png",
+    "codes": "aquas-checkpoint"
+  },
+  {
+    "name": "Area 6 Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "area6",
+    "img": "images/checkpoint.png",
+    "codes": "area6-checkpoint"
+  },
+  {
+    "name": "Bolse Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "bolse",
+    "img": "images/checkpoint.png",
+    "codes": "bolse-checkpoint"
+  },
+  {
+    "name": "Corneria Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "corneria",
+    "img": "images/checkpoint.png",
+    "codes": "corneria-checkpoint"
+  },
+  {
+    "name": "Fortuna Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "fortuna",
+    "img": "images/checkpoint.png",
+    "codes": "fortuna-checkpoint"
+  },
+  {
+    "name": "Katina Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "katina",
+    "img": "images/checkpoint.png",
+    "codes": "katina-checkpoint"
+  },
+  {
+    "name": "Macbeth Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "macbeth",
+    "img": "images/checkpoint.png",
+    "codes": "macbeth-checkpoint"
+  },
+  {
+    "name": "Meteo Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "meteo",
+    "img": "images/checkpoint.png",
+    "codes": "meteo-checkpoint"
+  },
+  {
+    "name": "Sector X Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "sectorx",
+    "img": "images/checkpoint.png",
+    "codes": "sectorx-checkpoint"
+  },
+  {
+    "name": "Sector Y Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "sectory",
+    "img": "images/checkpoint.png",
+    "codes": "sectory-checkpoint"
+  },
+  {
+    "name": "Sector Z Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "sectorz",
+    "img": "images/checkpoint.png",
+    "codes": "sectorz-checkpoint"
+  },
+  {
+    "name": "Solar Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "solar",
+    "img": "images/checkpoint.png",
+    "codes": "solar-checkpoint"
+  },
+  {
+    "name": "Titania Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "titania",
+    "img": "images/checkpoint.png",
+    "codes": "titania-checkpoint"
+  },
+  {
+    "name": "Venom Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "venom",
+    "img": "images/checkpoint.png",
+    "codes": "venom-checkpoint"
+  },
+  {
+    "name": "Zoness Checkpoint",
+    "type": "toggle_badged",
+    "base_item": "zoness",
+    "img": "images/checkpoint.png",
+    "codes": "zoness-checkpoint"
+  },
+  
+  {
+    "name": "Background",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/background.png",
+	"disabled_img_mods": "",
+    "codes": "background"
+  },
+  {
+    "name": "Corneria Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/corneria-bp.png",
+    "codes": "corneria-bp"
+  },
+  {
+    "name": "Corneria Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/corneria-rp.png",
+    "codes": "corneria-rp"
+  },
+  {
+    "name": "Meteo Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/meteo-bp.png",
+    "codes": "meteo-bp"
+  },
+  {
+    "name": "Meteo Green Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/meteo-gp.png",
+    "codes": "meteo-gp"
+  },
+  {
+    "name": "Sector Y Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectory-rp.png",
+    "codes": "sectory-rp"
+  },
+  {
+    "name": "Sector Y Yellow Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectory-yp.png",
+    "codes": "sectory-yp"
+  },
+  {
+    "name": "Katina Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/katina-bp.png",
+    "codes": "katina-bp"
+  },
+  {
+    "name": "Katina Yellow Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/katina-yp.png",
+    "codes": "katina-yp"
+  },
+  {
+    "name": "Fortuna Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/fortuna-bp.png",
+    "codes": "fortuna-bp"
+  },
+  {
+    "name": "Fortuna Yellow Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/fortuna-yp.png",
+    "codes": "fortuna-yp"
+  },
+  {
+    "name": "Aquas Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/aquas-rp.png",
+    "codes": "aquas-rp"
+  },
+  {
+    "name": "Solar Yellow Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/solar-yp.png",
+    "codes": "solar-yp"
+  },
+  {
+    "name": "Sector X Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectorx-bp.png",
+    "codes": "sectorx-bp"
+  },
+  {
+    "name": "Sector X Green Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectorx-gp.png",
+    "codes": "sectorx-gp"
+  },
+  {
+    "name": "Sector X Yellow Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectorx-yp.png",
+    "codes": "sectorx-yp"
+  },
+  {
+    "name": "Zoness Yellow Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/zoness-yp.png",
+    "codes": "zoness-yp"
+  },
+  {
+    "name": "Zoness Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/zoness-rp.png",
+    "codes": "zoness-rp"
+  },
+  {
+    "name": "Sector Z Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectorz-bp.png",
+    "codes": "sectorz-bp"
+  },
+  {
+    "name": "Sector Z Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectorz-rp.png",
+    "codes": "sectorz-rp"
+  },
+  {
+    "name": "Macbeth Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/macbeth-bp.png",
+    "codes": "macbeth-bp"
+  },
+  {
+    "name": "Macbeth Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/macbeth-rp.png",
+    "codes": "macbeth-rp"
+  },
+  {
+    "name": "Titania Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/titania-bp.png",
+    "codes": "titania-bp"
+  },
+  {
+    "name": "Area 6 Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/area6-rp.png",
+    "codes": "area6-rp"
+  },
+  {
+    "name": "Bolse Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/bolse-bp.png",
+    "codes": "bolse-bp"
+  },
+  {
+    "name": "Medals",
+    "type": "consumable",
+    "img": "images/medal.png",
+    "codes": "medal",
+    "initial_quantity": 0,
+    "min_quantity": 0,
+    "max_quantity": 15,
+    "increment": 1,
+    "overlay_font_size": "16"
+  }
+]

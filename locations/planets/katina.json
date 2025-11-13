@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Katina",
+	"access_rules": [
+	  "katina",
+	  "@Path/Katina"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 303,
+		"y": 373
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete"
+      },
+      {
+        "name": "Mission Accomplished"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Sector Z",
+	"access_rules": [
+	  "sectorz",
+	  "@Path/SectorZ"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 561,
+		"y": 84
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete"
+      },
+      {
+        "name": "Mission Accomplished"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      },
+    ]
+  }
+]

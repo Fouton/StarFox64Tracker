@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Zoness",
+	"access_rules": [
+	  "zoness",
+	  "@Path/Zoness"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 405,
+		"y": 89
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete",
+      },
+      {
+        "name": "Mission Accomplished"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      },
+      {
+        "name": "Before Katt Appears, Top: Gold Ring",
+		"chest_unopened_img": "images/goldring.png"
+      },
+      {
+        "name": "Before Katt Appears, Middle: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      },
+      {
+        "name": "Before Katt Appears, Bottom: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Checkpoint",
+		"chest_unopened_img": "images/checkpoints.png",
+		"visibility_rules": [
+			"shuffle_checkpoints"
+		]
+      },
+      {
+        "name": "Aim For The Rudder, First Gate: Laser Upgrade",
+		"chest_unopened_img": "images/laser.png"
+      },
+      {
+        "name": "Aim For The Rudder, Second Gate, Left: Bomb",
+		"chest_unopened_img": "images/bomb.png"
+      },
+      {
+        "name": "Aim For The Rudder, Third Gate: Silver Ring",
+		"chest_unopened_img": "images/silverring.png"
+      }
+    ]
+  }
+]

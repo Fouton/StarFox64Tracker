@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Fortuna",
+	"access_rules": [
+	  "fortuna",
+	  "@Path/Fortuna"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 385,
+		"y": 534
+	  }
+	],
+    "sections": [
+      {
+        "name": "Mission Complete"
+      },
+      {
+        "name": "Mission Accomplished"
+      },
+      {
+        "name": "Medal",
+		"chest_unopened_img": "images/medal.png"
+      }
+    ]
+  }
+]
