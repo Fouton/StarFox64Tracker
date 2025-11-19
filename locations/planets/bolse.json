@@ -2,8 +2,7 @@
   {
     "name": "Bolse",
 	"access_rules": [
-	  "bolse",
-	  "@Path/Bolse"
+	  "$access_planet|bolse|macbeth-bp|titania-bp|false"
 	],
 	"map_locations": [
 	  {

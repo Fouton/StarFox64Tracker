@@ -2,8 +2,7 @@
   {
     "name": "Area 6",
 	"access_rules": [
-	  "area6",
-	  "@Path/Area6"
+	  "$access_planet|area6|sectorz-rp|macbeth-rp|false"
 	],
 	"map_locations": [
 	  {

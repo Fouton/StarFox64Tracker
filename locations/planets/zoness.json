@@ -2,8 +2,7 @@
   {
     "name": "Zoness",
 	"access_rules": [
-	  "zoness",
-	  "@Path/Zoness"
+	  "$access_planet|zoness|aquas-rp|false|false"
 	],
 	"map_locations": [
 	  {

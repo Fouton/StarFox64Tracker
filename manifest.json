@@ -1,7 +1,7 @@
 ﻿{
   "name": "Starfox 64 Tracker",
   "game_name": "Starfox 64",
-  "package_version": "1.0.0.0",
+  "package_version": "1.0.0.1",
   "min_poptracker_version": "0.28.0",
   "package_uid": "fouton_sf64",
   "author": "Fouton",

@@ -2,8 +2,7 @@
   {
     "name": "Macbeth",
 	"access_rules": [
-	  "macbeth",
-	  "@Path/Macbeth"
+	  "$access_planet|macbeth|zoness-yp|solar-yp|sectorx-yp"
 	],
 	"map_locations": [
 	  {

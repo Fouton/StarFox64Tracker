@@ -2,8 +2,7 @@
   {
     "name": "Sector Z",
 	"access_rules": [
-	  "sectorz",
-	  "@Path/SectorZ"
+	  "$access_planet|sectorz|zoness-rp|sectorx-gp|false"
 	],
 	"map_locations": [
 	  {

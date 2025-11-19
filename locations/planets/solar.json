@@ -2,8 +2,7 @@
   {
     "name": "Solar",
 	"access_rules": [
-	  "solar",
-	  "@Path/Solar"
+	  "$access_planet|solar|katina-yp|fortuna-yp|false"
 	],
 	"map_locations": [
 	  {

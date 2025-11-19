@@ -2,8 +2,7 @@
   {
     "name": "Aquas",
 	"access_rules": [
-	  "aquas",
-	  "@Path/Aquas"
+	  "$access_planet|aquas|sectory-rp|false|false"
 	],
 	"map_locations": [
 	  {

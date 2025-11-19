@@ -28,9 +28,69 @@
         "item_width": 46,
         "item_height": 46,
         "rows": [
-          [ "corneria-checkpoint", "meteo-checkpoint", "sectory-checkpoint", "katina-checkpoint", "fortuna-checkpoint" ],
-          [ "aquas-checkpoint", "zoness-checkpoint", "solar-checkpoint", "sectorx-checkpoint", "sectorz-checkpoint" ],
-          [ "macbeth-checkpoint", "titania-checkpoint", "area6-checkpoint", "bolse-checkpoint", "venom-checkpoint" ]
+			[],
+			[ "corneria-checkpoint" ],
+			[]
+        ]
+      },
+      {
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "-10,23",
+		"content": [
+			{
+				"type": "itemgrid",
+				"h_alignment": "left",
+				"item_margin": "0,1",
+				"item_width": 46,
+				"item_height": 46,
+				"rows": [
+				  ["sectory-checkpoint"],
+				  [ "meteo-checkpoint"]
+				]
+			}
+		]
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "3,1",
+        "item_width": 46,
+        "item_height": 46,
+        "rows": [
+          [ "aquas-checkpoint", "zoness-checkpoint", "sectorz-checkpoint" ],
+          [ "katina-checkpoint", "solar-checkpoint", "macbeth-checkpoint"  ],
+          [ "fortuna-checkpoint","sectorx-checkpoint", "titania-checkpoint" ]
+        ]
+      },
+      {
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "-10,23",
+		"content": [
+			{
+				"type": "itemgrid",
+				"h_alignment": "left",
+				"item_margin": "0,1",
+				"item_width": 46,
+				"item_height": 46,
+				"rows": [
+					["area6-checkpoint"],
+					["bolse-checkpoint"]
+				]
+			}
+		]
+      },
+      {
+        "type": "itemgrid",
+        "h_alignment": "left",
+        "item_margin": "3,1",
+        "item_width": 46,
+        "item_height": 46,
+        "rows": [
+			[],
+			["venom-checkpoint" ],
+			[]
         ]
       }
     ]

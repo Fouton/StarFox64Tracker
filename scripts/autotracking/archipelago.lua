@@ -60,6 +60,7 @@ function onClear(slot_data)
         end
     end
 
+    -- set yaml settings
     for slot, data in pairs(slot_data["options"]) do
         local obj = Tracker:FindObjectForCode(slot)
         if obj then

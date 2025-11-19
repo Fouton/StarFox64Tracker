@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Goal",
+	"access_rules": [
+	  "$access_planet|venom|bolse-bp|area6-rp|false, $medalCheck"
+	],
+	"map_locations": [
+	  {
+		"map": "lylat",
+		"x": 919,
+		"y": 60
+	  }
+	],
+    "sections": [
+      {
+        "name": "Defeat Andross",
+		"chest_unopened_img": "images/andro.png",
+		"visibility_rules": [
+			"vic-either",
+			"vic-both"
+		]
+      },
+      {
+        "name": "Defeat Robot Andross",
+		"chest_unopened_img": "images/robot.png",
+		"visibility_rules": [
+			"vic-either",
+			"vic-both"
+		]
+      },
+      {
+        "name": "Defeat Andross on Venom 2",
+		"chest_unopened_img": "images/andross.png",
+		"visibility_rules": [
+			"vic-andross"
+		]
+      }
+    ]
+  }
+]

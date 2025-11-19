@@ -130,6 +130,7 @@ LOCATION_MAPPING = {
     [114] = {"@Titania/Second Falling Tower Before Boss: Gold Ring"},
     
     [115] = {"@Venom/Medal"},
+    [116] = {"@Goal/Defeat Robot Andross"},
     [117] = {"@Venom/Venom 1 - Near Start, Bottom: Gold Ring"},
     [118] = {"@Venom/Venom 1 - Near Start, Top: Laser Upgrade"},
     [119] = {"@Venom/Venom 1 - Maze (R R R): Gold Ring"},
@@ -139,6 +140,7 @@ LOCATION_MAPPING = {
     [123] = {"@Venom/Venom 1 - End Of Maze (L L L): Gold Ring"},
     [124] = {"@Venom/Venom 1 - End Of Maze (R R L L): Gold Ring"},
     [125] = {"@Venom/Venom 1 - Checkpoint"},
+    [126] = {"@Goal/Defeat Andross"},
 
     [127] = {"@Zoness/Mission Complete"},
     [128] = {"@Zoness/Mission Accomplished"},

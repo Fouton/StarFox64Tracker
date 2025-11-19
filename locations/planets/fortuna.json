@@ -2,8 +2,7 @@
   {
     "name": "Fortuna",
 	"access_rules": [
-	  "fortuna",
-	  "@Path/Fortuna"
+	  "$access_planet|fortuna|meteo-bp|false|false"
 	],
 	"map_locations": [
 	  {

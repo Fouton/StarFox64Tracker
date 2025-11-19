@@ -2,8 +2,7 @@
   {
     "name": "Sector X",
 	"access_rules": [
-	  "sectorx",
-	  "@Path/SectorX"
+	  "$access_planet|sectorx|fortuna-bp|katina-bp|false"
 	],
 	"map_locations": [
 	  {

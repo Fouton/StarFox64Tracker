@@ -2,8 +2,7 @@
   {
     "name": "Corneria",
 	"access_rules": [
-	  "corneria",
-	  "access-path"
+	  "$access_planet|corneria|false|false|false"
 	],
 	"map_locations": [
 	  {

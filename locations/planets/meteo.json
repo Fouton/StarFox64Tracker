@@ -2,8 +2,7 @@
   {
     "name": "Meteo",
 	"access_rules": [
-	  "meteo",
-	  "@Path/Meteo"
+	  "$access_planet|meteo|corneria-bp|false|false"
 	],
 	"map_locations": [
 	  {

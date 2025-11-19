@@ -2,8 +2,7 @@
   {
     "name": "Katina",
 	"access_rules": [
-	  "katina",
-	  "@Path/Katina"
+	  "$access_planet|katina|sectory-yp|meteo-gp|false"
 	],
 	"map_locations": [
 	  {

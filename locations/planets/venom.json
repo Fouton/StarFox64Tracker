@@ -2,8 +2,10 @@
   {
     "name": "Venom",
 	"access_rules": [
+	  "$access_planet|venom|bolse-bp|area6-rp|false, $medalCheck",
+	  "$access_planet|venom|bolse-bp|area6-rp|false, vic-andross",
 	  "venom, $medalCheck",
-	  "@Path/Venom, $medalCheck"
+	  "venom, vic-andross"
 	],
 	"map_locations": [
 	  {

@@ -1,0 +1,276 @@
+﻿[
+  {
+    "name": "Aquas",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/aquas.png",
+    "codes": "b-aquas"
+  },
+  {
+    "name": "Area 6",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/area6.png",
+    "codes": "b-area6"
+  },
+  {
+    "name": "Bolse",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bolse.png",
+    "codes": "b-bolse"
+  },
+  {
+    "name": "Corneria",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/corneria.png",
+    "codes": "b-corneria"
+  },
+  {
+    "name": "Fortuna",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/fortuna.png",
+    "codes": "b-fortuna"
+  },
+  {
+    "name": "Katina",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/katina.png",
+    "codes": "b-katina"
+  },
+  {
+    "name": "Macbeth",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/macbeth.png",
+    "codes": "b-macbeth"
+  },
+  {
+    "name": "Meteo",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/meteo.png",
+    "codes": "b-meteo"
+  },
+  {
+    "name": "Sector X",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/sectorx.png",
+    "codes": "b-sectorx"
+  },
+  {
+    "name": "Sector Y",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/sectory.png",
+    "codes": "b-sectory"
+  },
+  {
+    "name": "Sector Z",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/sectorz.png",
+    "codes": "b-sectorz"
+  },
+  {
+    "name": "Solar",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/solar.png",
+    "codes": "b-solar"
+  },
+  {
+    "name": "Titania",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/titania.png",
+    "codes": "b-titania"
+  },
+  {
+    "name": "Venom",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/venom.png",
+    "codes": "b-venom"
+  },
+  {
+    "name": "Zoness",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/zoness.png",
+    "codes": "b-zoness"
+  },
+  
+  {
+    "name": "Corneria Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/corneria-bp.png",
+    "codes": "b-corneria-bp"
+  },
+  {
+    "name": "Corneria Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/corneria-rp.png",
+    "codes": "b-corneria-rp"
+  },
+  {
+    "name": "Meteo Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/meteo-bp.png",
+    "codes": "b-meteo-bp"
+  },
+  {
+    "name": "Meteo Green Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/meteo-gp.png",
+    "codes": "b-meteo-gp"
+  },
+  {
+    "name": "Sector Y Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectory-rp.png",
+    "codes": "b-sectory-rp"
+  },
+  {
+    "name": "Sector Y Yellow Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectory-yp.png",
+    "codes": "b-sectory-yp"
+  },
+  {
+    "name": "Katina Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/katina-bp.png",
+    "codes": "b-katina-bp"
+  },
+  {
+    "name": "Katina Yellow Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/katina-yp.png",
+    "codes": "b-katina-yp"
+  },
+  {
+    "name": "Fortuna Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/fortuna-bp.png",
+    "codes": "b-fortuna-bp"
+  },
+  {
+    "name": "Fortuna Yellow Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/fortuna-yp.png",
+    "codes": "b-fortuna-yp"
+  },
+  {
+    "name": "Aquas Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/aquas-rp.png",
+    "codes": "b-aquas-rp"
+  },
+  {
+    "name": "Solar Yellow Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/solar-yp.png",
+    "codes": "b-solar-yp"
+  },
+  {
+    "name": "Sector X Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectorx-bp.png",
+    "codes": "b-sectorx-bp"
+  },
+  {
+    "name": "Sector X Green Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectorx-gp.png",
+    "codes": "b-sectorx-gp"
+  },
+  {
+    "name": "Sector X Yellow Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectorx-yp.png",
+    "codes": "b-sectorx-yp"
+  },
+  {
+    "name": "Zoness Yellow Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/zoness-yp.png",
+    "codes": "b-zoness-yp"
+  },
+  {
+    "name": "Zoness Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/zoness-rp.png",
+    "codes": "b-zoness-rp"
+  },
+  {
+    "name": "Sector Z Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectorz-bp.png",
+    "codes": "b-sectorz-bp"
+  },
+  {
+    "name": "Sector Z Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/sectorz-rp.png",
+    "codes": "b-sectorz-rp"
+  },
+  {
+    "name": "Macbeth Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/macbeth-bp.png",
+    "codes": "b-macbeth-bp"
+  },
+  {
+    "name": "Macbeth Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/macbeth-rp.png",
+    "codes": "b-macbeth-rp"
+  },
+  {
+    "name": "Titania Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/titania-bp.png",
+    "codes": "b-titania-bp"
+  },
+  {
+    "name": "Area 6 Red Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/area6-rp.png",
+    "codes": "b-area6-rp"
+  },
+  {
+    "name": "Bolse Blue Path",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/paths/bolse-bp.png",
+    "codes": "b-bolse-bp"
+  }
+]

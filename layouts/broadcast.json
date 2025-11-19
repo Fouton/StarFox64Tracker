@@ -5,16 +5,359 @@
     "margin": "0,0",
     "content": [
       {
-        "type": "array",
-        "orientation": "horizontal",
-        "margin": "0,0",
-        "content": [
-          {
-            "type": "layout",
-            "key": "item_grid"
-          }
-        ]
-      }
+		"type": "layout",
+		"key": "item_grid"
+      },
+	  {
+		"type": "canvas",
+		"width": 417,
+		"height": 155,
+		"margin": "0",
+		"content": [
+		  {
+			"type": "item",
+			"item": "b-corneria-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-corneria-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-meteo-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-meteo-gp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-sectory-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-sectory-yp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-aquas-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-katina-yp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-katina-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-fortuna-yp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-fortuna-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-zoness-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-zoness-yp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-solar-yp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-sectorx-gp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-sectorx-yp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-sectorx-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-sectorz-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-sectorz-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-macbeth-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-macbeth-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-titania-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-area6-rp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-bolse-bp",
+			"margin": "0",
+			"canvas_depth": 1,
+			"width": 417,
+			"height": 155
+		  },
+		  {
+			"type": "item",
+			"item": "b-corneria",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 1,
+			"canvas_top": 53,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-meteo",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 59,
+			"canvas_top": 80,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-sectory",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 58,
+			"canvas_top": 25,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-fortuna",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 117,
+			"canvas_top": 112,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-katina",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 117,
+			"canvas_top": 54,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-aquas",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 117,
+			"canvas_top": 0,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-sectorx",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 186,
+			"canvas_top": 111,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-solar",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 184,
+			"canvas_top": 55,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-zoness",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 184,
+			"canvas_top": 0,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-sectorz",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 253,
+			"canvas_top": 0,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-macbeth",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 250,
+			"canvas_top": 57,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-titania",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 250,
+			"canvas_top": 111,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-bolse",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 316,
+			"canvas_top": 82,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-area6",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 316,
+			"canvas_top": 25,
+			"width": 36,
+			"height": 36
+		  },
+		  {
+			"type": "item",
+			"item": "b-venom",
+			"margin": "0",
+			"canvas_depth": 1,
+			"canvas_left": 380,
+			"canvas_top": 59,
+			"width": 36,
+			"height": 36
+		  }
+		]
+	  }
     ]
   }
 }

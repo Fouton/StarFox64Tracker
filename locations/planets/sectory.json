@@ -2,8 +2,7 @@
   {
     "name": "Sector Y",
 	"access_rules": [
-	  "sectory",
-	  "@Path/SectorY"
+	  "$access_planet|sectory|corneria-rp|false|false"
 	],
 	"map_locations": [
 	  {

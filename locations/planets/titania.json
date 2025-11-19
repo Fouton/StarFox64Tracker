@@ -2,8 +2,7 @@
   {
     "name": "Titania",
 	"access_rules": [
-	  "titania",
-	  "@Path/Titania"
+	  "$access_planet|titania|sectorx-bp|false|false"
 	],
 	"map_locations": [
 	  {
